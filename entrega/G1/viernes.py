@@ -32,3 +32,19 @@ print("“Una computadora puede ser llamada \"inteligente\" si logra engañar a 
 print("DIEGO","GOMEZ", "38")
 print("DIEGO","GOMEZ", "38", sep="_")
 print("hola", "mi edad es:", 40)
+print( "calle\t","numero\t","codigo postal\t",)
+texto= "calle \nnumero \ncodigo postal\n"
+print (texto)
+texto= "feliz \nprimavera \t2023"
+print(texto) 
+T1 = "solo podemos ver poco del futuro,"
+T2 = "pero lo suficiente para darnos cuenta de que hay mucho que hacer."
+print(T1,T2)
+print(" \*")
+print(" * *")
+print(" * *")
+print(" * *")
+print("*** ***")
+print(" * *")
+print(" * *")
+print(" *****")
